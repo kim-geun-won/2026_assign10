@@ -1,6 +1,6 @@
 export const siteMeta = {
-  brand: "Athena Personal Academic Page",
-  title: "Athena Personal Academic Page",
+  brand: "Amazing Research and Study Page",
+  title: "Amazing Research and Study Page",
   description:
     "Athena Personal Academic Page is a configurable academic website framework for researchers.",
   socialDescription:
