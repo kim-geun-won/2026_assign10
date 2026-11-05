@@ -1,4 +1,11 @@
 export const news = [
+    {
+    date: "2026.11",
+    icon: "award",
+    text: "today is the day when festival is held in Handong University",
+    href: "https://www.handong.edu"
+  },
+  
   {
     date: "2026.06",
     icon: "release",
