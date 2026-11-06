@@ -5,11 +5,11 @@ export const news = [
     text: "today is the day when festival is held in Handong University",
     href: "https://www.handong.edu"
   },
-  
+
   {
     date: "2026.06",
     icon: "release",
-    text: "Athena 1.0 adds configurable publication charts, project cards, talks, teaching, awards, and service sections.",
+    text: "Athena 1.0 adds configurable publication charts, psroject cards, talks, teaching, awards, and service sections.",
     href: "https://example.com/news/athena-1"
   },
   {
